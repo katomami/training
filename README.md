@@ -1,24 +1,33 @@
-# README
+# <Enjoy the movie!>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+様々なユーザーのおすすめの映画の紹介や感想を共有できるサイトです。
 
-Things you may want to cover:
+### サイトテーマ
+お気に入りの映画を他者と共有する。
 
-* Ruby version
+### テーマを選んだ理由
+私の趣味は映画を観ることです。映画を観ることは楽しく、気分転換になります。皆さんのおすすめの映画を知りたいと思い、このテーマにしました。
 
-* System dependencies
+### ターゲットユーザ
+気分転換に映画を観たいと思っている人。
 
-* Configuration
+### 主な利用シーン
+観たいと思える映画を見つけて観ることができる。
 
-* Database creation
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/15rOumYgICy4eT9Yn7RsFvDWXTpTjVexDSbBn6KrxR88/edit?usp=sharing>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：
+- IDE：Cloud9
 
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
